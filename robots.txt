@@ -1,0 +1,5 @@
+Sitemap: /wp-sitemap.xml                     
+
+User-Agent: Webwiki
+Disallow: /
+
